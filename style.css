@@ -1,0 +1,29 @@
+body {
+    background: url('background.png');
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    margin-top: -19px;
+    box-shadow: 4px 4px 13px white;
+}
+
+span {
+    font-size: 16px;
+    color: purple;
+    font-weight: 700;
+}
+
+#song_name {
+    font-size: 18px;
+}
+
+canvas {
+    border: 8px ridge purple;
+    border-radius: 15px;
+    margin-top: 50px;
+}
